@@ -114,6 +114,7 @@ Name | Website | Region
 [DealDash](/company-profiles/dealdash.md) ⚠️️ | http://www.dealdash.com |
 [Delighted](/company-profiles/delighted.md) ⚠️️ | https://delighted.com |
 [Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
+[Digitalminds.io](/company-profiles/digitalminds-io.md) | https://www.digitalminds.io | Europe 
 [DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
 [Discourse](/company-profiles/discourse.md) | http://www.discourse.org/ | Worldwide
 [DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
